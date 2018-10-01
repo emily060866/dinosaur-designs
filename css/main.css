@@ -1,18 +1,17 @@
 html {
-  background-color: #f2f1ed
+  background-color: #f2f1ed;
   font-family: Georgia, serif;
   line-height: 1.5;
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', cursive;
-
+  font-family: "Patua One", cursive;
 }
 
 figcaption {
@@ -23,23 +22,22 @@ figcaption {
 
 nav {
   font-size: 1.258rem;
-  font-weight: bold
+  font-weight: bold;
 }
 
-nav ol{
+nav ol {
   list-style-type: none;
-  font-family: 'Patua One', cursive;
-
+  font-family: "Patua One", cursive;
 }
 
-nav a{
+nav a {
   color: #793284;
   text-decoration: none;
 }
 
 nav a:hover {
   color: #b42885;
-  text-decoration:  underline;
+  text-decoration: underline;
 }
 
 .intro {
