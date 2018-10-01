@@ -9,8 +9,10 @@ img {
 }
 
 h1, h2 {
-  color: #5d8432
+  color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+
 }
 
 figcaption {
@@ -26,14 +28,20 @@ nav {
 
 nav ol{
   list-style-type: none;
+  font-family: 'Patua One', cursive;
+
 }
 
 nav a{
-  color: #793284
+  color: #793284;
   text-decoration: none;
 }
 
 nav a:hover {
   color: #b42885;
   text-decoration:  underline;
+}
+
+.intro {
+  font-size: 1rem;
 }
